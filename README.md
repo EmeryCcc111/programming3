@@ -1,5 +1,5 @@
 # programming3
-Game name: Tag!
+Game name: 
 Who Might Use It: Students that are bored in class, or new programmers
 What would the user do with it: Play the game, try and get a highscore
 what is one key input and possible output: ASD movement on screen

@@ -1,13 +1,24 @@
-Team/project name: Outrun (Tag-based)
+# [Project title]
 
-Intended user or problem: for entertainment, easy to play so that anyone can.
+[One or two sentences: who the project is for and what it helps them do.]
 
-Users would play with the other people (two-player game).
+## Team
+- [Name] - [current contribution or responsibility]
+- [Name] - [current contribution or responsibility]
 
-Pressing W moves the player/character 1 up.
+## First buildable version
+- [ ] A user can [main action].
+- [ ] The program responds by [visible result or feedback].
+- [ ] We have limited the first version to [small, realistic scope].
 
-The smallest working version would be 2 basic blocks on screen moving around. Something changes when they tag each other.
+## Design pack
+- [ ] User-interface mockup: [view the mockup](design/ui-mockup.png)
+- [ ] Class diagram: [view the class diagram](design/class-diagram.png)
+- [ ] Logic diagram: [view the logic diagram](design/logic-diagram.png)
+- [ ] Project schedule: [view the schedule](design/project-schedule.png)
 
-One question that we still have to research is that what kind of obstacles we want to implement.
+## Current status
+[What is complete? What is the team's next step?]
 
-<img width="315" height="250" alt="image" src="https://github.com/user-attachments/assets/c0950d2d-773d-4bef-a931-132719ce5bae" />
+## How to view the artifacts
+[Explain any file type or tool a viewer needs.]

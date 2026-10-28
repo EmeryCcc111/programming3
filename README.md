@@ -1,6 +1,6 @@
-# [Project title]
+# Outrun
 
-[One or two sentences: who the project is for and what it helps them do.]
+This game is for entertainment purposes. It is targeted toward children and teens.
 
 ## Team
 - [Name] - [current contribution or responsibility]

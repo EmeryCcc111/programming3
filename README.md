@@ -13,7 +13,8 @@ This game is for entertainment purposes only. It is targeted toward children and
 
 ## Design pack
 - [ ] User-interface mockup: [view the mockup](design/ui-mockup.png)
-- [ ] Class diagram: <img width="850" height="538" alt="Group Project" src="https://github.com/user-attachments/assets/55afa743-9d7e-4ba2-bcec-e0c2bed13830" />
+- [ ] Class diagram:
+- [ ] <img width="850" height="538" alt="Group Project" src="https://github.com/user-attachments/assets/55afa743-9d7e-4ba2-bcec-e0c2bed13830" />
 - [ ] Logic diagram: [view the logic diagram](design/logic-diagram.png)
 - [ ] Project schedule: [view the schedule](design/project-schedule.png)
 

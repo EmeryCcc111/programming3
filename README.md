@@ -18,7 +18,7 @@ This game is for entertainment purposes only. It is targeted toward children and
 - [ ] Project schedule: [view the schedule](design/project-schedule.png)
 
 ## Current status
-[What is complete? What is the team's next step?]
+Nothing done; work in progress.
 
-## How to view the artifacts
-[Explain any file type or tool a viewer needs.]
+
+

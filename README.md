@@ -2,7 +2,7 @@ Team/project name: Outrun (Tag based)
 
 Intended user or problem: Entertainment and for bored people with lots of free time.
 
-users would play with there other people
+Users would play with three other people
 
 pressing W moves player character 1 up.
 

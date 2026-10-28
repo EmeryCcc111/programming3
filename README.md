@@ -1,6 +1,6 @@
 Team/project name: Outrun (Tag-based)
 
-Intended user or problem: Entertainment for bored people, kids, and teens. People can play during their free time.
+Intended user or problem: for entertainment, easy to play so that anyone can.
 
 Users would play with the other people (two-player game).
 

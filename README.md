@@ -1,4 +1,4 @@
-Team/project name: Outrun (Tag based)
+Team/project name: Outrun (Tag-based)
 
 Intended user or problem: Entertainment and for bored people with lots of free time.
 

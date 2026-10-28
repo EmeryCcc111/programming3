@@ -13,7 +13,7 @@ This game is for entertainment purposes only. It is targeted toward children and
 
 ## Design pack
 - [ ] User-interface mockup: [view the mockup](design/ui-mockup.png)
-- [ ] Class diagram: [view the class diagram]
+- [ ] Class diagram: [view the class diagram]()
 - [ ] Logic diagram: [view the logic diagram](design/logic-diagram.png)
 - [ ] Project schedule: [view the schedule](design/project-schedule.png)
 

@@ -3,7 +3,7 @@
 This game is for entertainment purposes only. It is targeted toward children and teens.
 
 ## Team
-- dennis - lead dev
+- Dennis - Lead Developer
 - [Name] - [current contribution or responsibility]
 
 ## First buildable version

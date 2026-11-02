@@ -4,8 +4,8 @@ This game is for entertainment purposes only. It is targeted toward children and
 
 ## Team
 - Dennis - Lead Developer
-- [Name] - [current contribution or responsibility]
-
+- Nidhi Nambudripad - Class and Logic Diagram 
+- Emery Carter - Project Schedule/Gantt Chart
 ## First buildable version
 - [ ] A user can [main action].
 - [ ] The program responds by [visible result or feedback].

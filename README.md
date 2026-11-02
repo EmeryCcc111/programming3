@@ -15,7 +15,7 @@ This game is for entertainment purposes only. It is targeted toward children and
 - [ ] User-interface mockup: [view the mockup](design/ui-mockup.png)
 - [ ] Class diagram: [view the class diagram](https://github.com/EmeryCcc111/programming3/blob/main/images/Classdiagram%20(2).jpg)
 - [ ] Logic diagram: [view the logic diagram](https://github.com/EmeryCcc111/programming3/blob/main/images/logicdiagram.jpg)
-- [ ] Project schedule: [view the schedule](design/project-schedule.png)
+- [ ] Project schedule: [view the schedule](https://docs.google.com/spreadsheets/d/1D1CBZsGz0Sm3tAKazKr0cTGmTGtX399kX9AECRr4Qf4/edit?gid=0#gid=0)
 
 ## Current status
 Nothing done; work in progress.

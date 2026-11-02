@@ -7,9 +7,9 @@ This game is for entertainment purposes only. It is targeted toward children and
 - Nidhi Nambudripad - Class and Logic Diagram 
 - Emery Carter - Project Schedule/Gantt Chart
 ## First buildable version
-- [ ] A user can [main action].
-- [ ] The program responds by [visible result or feedback].
-- [ ] We have limited the first version to [small, realistic scope].
+- [ ] A user can move a character
+- [ ] The program responds by moving the character on screen
+- [ ] We have limited the first version to moving characters
 
 ## Design pack
 - [ ] User-interface mockup: [view the mockup](design/ui-mockup.png)

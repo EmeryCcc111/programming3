@@ -9,7 +9,7 @@ p1 = new Player();
 
 void draw()  {
 background(127);
-p1.display
+p1.display();
 }
 
 void keypressed() {}

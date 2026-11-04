@@ -13,7 +13,7 @@ Obstacle() {
  w = 50;
  h = 50;
  c1 = color(#41EAF7);
- p1 = loadImage("");
+ p1 = loadImage("Brick.png");
 
 }
 

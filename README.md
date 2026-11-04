@@ -18,7 +18,7 @@ This game is for entertainment purposes only. It is targeted toward children and
 - [ ] Project schedule: [view the schedule](https://docs.google.com/spreadsheets/d/1D1CBZsGz0Sm3tAKazKr0cTGmTGtX399kX9AECRr4Qf4/edit?gid=0#gid=0)
 
 ## Current status
-Nothing done; work in progress.
+Work in progress.
 
 
 

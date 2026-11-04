@@ -17,7 +17,12 @@ Player() {
 }
 
  // Member Methods
-void display() {}
+void display() {
+// TODO: add image and remove rect
+// image(p1,x,y);
+fill(c1);
+ rect(x,y,w,h);
+}
 void move(char dir) {}
 void jump() {}
 void attack() {}

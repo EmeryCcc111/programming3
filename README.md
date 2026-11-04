@@ -3,7 +3,7 @@
 This game is for entertainment purposes only. It is targeted toward children and teens.
 
 ## Team
-- Dennis - Lead Developer
+- Dennis Tokhtuev - Lead Developer
 - Nidhi Nambudripad - Class and Logic Diagram 
 - Emery Carter - Project Schedule/Gantt Chart
 ## First buildable version

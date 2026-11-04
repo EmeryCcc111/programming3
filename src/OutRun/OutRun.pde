@@ -12,4 +12,4 @@ background(127);
 p1.display();
 }
 
-void keypressed() {}
+void keyPressed() {}

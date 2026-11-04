@@ -1,6 +1,6 @@
 # Outrun
 
-This game is for entertainment purposes only. It is targeted toward children and teens.
+This game is for entertainment purposes only. its a party game so anybody can play
 
 ## Team
 - Dennis Tokhtuev - Lead Developer

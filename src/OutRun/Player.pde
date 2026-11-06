@@ -24,7 +24,6 @@ fill(c1);
  rect(x,y,w,h);
 }
 void move(char dir) {}
-void jump() {}
-void attack() {}
+
 
 }

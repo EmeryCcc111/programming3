@@ -4,7 +4,7 @@ This game is for entertainment purposes only. its a party game so anybody can pl
 
 ## Team
 - Dennis Tokhtuev - Lead Developer
-- Nidhi Nambudripad - Class and Logic Diagram 
+- Nidhi Nambudripad - Class and Logic Diagrams 
 - Emery Carter - Project Schedule/Gantt Chart
 ## First buildable version
 - [ ] A user can move a character

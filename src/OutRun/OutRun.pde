@@ -1,14 +1,13 @@
 //Dennis Tokhtuev
-Player p1, p2;
+
+Player p1;
 
 float x, y;
 float speed = 4;
 boolean wPressed, aPressed, sPressed, dPressed;
 void setup() {
   size(800, 800, P3D);
-  p1 = new Player(100,300,color(#FF1CDA), 'a', 'd', 'w', 's', 'f');
-  p2 = new Player(650,300, color(#9BD4FF), LEFT, RIGHT, UP, DOWN, SHIFT);
-  p1.isIt = true;
+  p1 = new Player();
   x = width/2;
   y = height/2;
 }
@@ -25,29 +24,24 @@ void draw() {
 
   pushMatrix();
   translate(x, y, 0);
-  fill(#9BD4FF);
+  fill(100, 150, 255);
   box(50);
   popMatrix();
-  stroke(180);
-  line(0, 500, width, 500);
-  noStroke();
-  
-  
-  p1.display();
-  p2.display();
 }
 
 
 void keyPressed() {
   if (key == 'w' || key == 'W') wPressed = true;
-  if (key == 'a' || key == 'A') aPressed = true;
-  if (key == 's' || key == 'S') sPressed = true;
-  if (key == 'd' || key == 'D') dPressed = true;
+  if (key == 'a' || key == 'A') wPressed = true;
+  if (key == 's' || key == 'S') wPressed = true;
+  if (key == 'd' || key == 'D') wPressed = true;
 }
 
 void keyReleased() {
-  if (key == 'w' || key == 'W') wPressed = false;
-  if (key == 'a' || key == 'A') aPressed = false;
-  if (key == 's' || key == 'S') sPressed = false;
-  if (key == 'd' || key == 'D') dPressed = false;
+if (key == 'w' || key == 'W') wPressed = false;
+if (key == 'a' || key == 'A') wPressed = false;
+if (key == 's' || key == 'S') wPressed = false;
+if (key == 'd' || key == 'D') wPressed = false;
+
+
 }

@@ -1,17 +1,30 @@
 // Nidhi Nambudripad
 
-class Timer {
-  // Member Variable
-  int startTime;
-  int interval;
-  
-  // Constructor
-  Timer(int tempInterval) {
-    interval = tempInterval;
-  }
-}
+Timer spawnTimer;
 
-// Start/reset timer
-void start() {
-  // startTime = millis();
+// Reusable Timer Class
+
+class Timer {
+  int startTime; 
+  int totalTime; 
+  
+  // Constructor to set the timer length
+  Timer(int tempTotalTime) {
+    totalTime = tempTotalTime;
+  }
+  
+  // Start or reset the timer
+  void start() {
+    startTime = millis();
+  }
+  
+  // Check if the requested time has elapsed
+  boolean isFinished() { 
+    int passedTime = millis() - startTime;
+    if (passedTime > totalTime) {
+      return true;
+    } else {
+      return false;
+    }
+  }
 }

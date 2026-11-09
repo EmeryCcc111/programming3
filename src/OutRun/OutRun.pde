@@ -32,16 +32,16 @@ void draw() {
 
 void keyPressed() {
   if (key == 'w' || key == 'W') wPressed = true;
-  if (key == 'a' || key == 'A') wPressed = true;
-  if (key == 's' || key == 'S') wPressed = true;
-  if (key == 'd' || key == 'D') wPressed = true;
+  if (key == 'a' || key == 'A') aPressed = true;
+  if (key == 's' || key == 'S') sPressed = true;
+  if (key == 'd' || key == 'D') dPressed = true;
 }
 
 void keyReleased() {
 if (key == 'w' || key == 'W') wPressed = false;
-if (key == 'a' || key == 'A') wPressed = false;
-if (key == 's' || key == 'S') wPressed = false;
-if (key == 'd' || key == 'D') wPressed = false;
+if (key == 'a' || key == 'A') aPressed = false;
+if (key == 's' || key == 'S') sPressed = false;
+if (key == 'd' || key == 'D') dPressed = false;
 
 
 }

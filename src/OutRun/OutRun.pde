@@ -20,8 +20,8 @@ void setup() {
 
 void draw() {
   background(220);
-  o1.display;
-  o2.display;
+  o1.display();
+  o2.display();
 
   //if (wPressed) y -= speed;
   //if (sPressed) y += speed;

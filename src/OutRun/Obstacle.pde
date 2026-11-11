@@ -21,6 +21,6 @@ class Obstacle {
     // TODO: add image and remove rect
     // image(p1,x,y);
     fill(c1);
-    rect(x, y, w, h);
+    rect(x, y, w-20, h+40);
   }
 }

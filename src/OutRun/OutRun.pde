@@ -16,21 +16,30 @@ void draw() {
   background(220);
 
 
-  if (wPressed) y -= speed;
-  if (sPressed) y += speed;
-  if (aPressed) x -= speed;
-  if (dPressed) x += speed;
+  //if (wPressed) y -= speed;
+  //if (sPressed) y += speed;
+  //if (aPressed) x -= speed;
+  //if (dPressed) x += speed;
   p1.display();
 
-  pushMatrix();
-  translate(x, y, 0);
-  fill(100, 150, 255);
-  box(50);
-  popMatrix();
+  //pushMatrix();
+  //translate(x, y, 0);
+  //fill(100, 150, 255);
+  //box(50);
+  //popMatrix();
 }
 
 
 void keyPressed() {
+  if(key == 'w') {
+  p1.move('w');
+  }else if(key == 's') {
+  p1.move('s');
+  }else if(key == 'a') {
+  p1.move('a');
+  }else if(key == 'd') {
+  p1.move('d');
+  }
   if (key == 'w' || key == 'W') wPressed = true;
   if (key == 'a' || key == 'A') aPressed = true;
   if (key == 's' || key == 'S') sPressed = true;
@@ -38,10 +47,8 @@ void keyPressed() {
 }
 
 void keyReleased() {
-if (key == 'w' || key == 'W') wPressed = false;
-if (key == 'a' || key == 'A') aPressed = false;
-if (key == 's' || key == 'S') sPressed = false;
-if (key == 'd' || key == 'D') dPressed = false;
-
-
+  //if (key == 'w' || key == 'W') wPressed = false;
+  //if (key == 'a' || key == 'A') aPressed = false;
+  //if (key == 's' || key == 'S') sPressed = false;
+  //if (key == 'd' || key == 'D') dPressed = false;
 }

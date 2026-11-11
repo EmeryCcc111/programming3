@@ -1,7 +1,10 @@
 //Dennis Tokhtuev
 
-player p1;
-player p2;
+Player p1;
+Player p2;
+Obstacle o1;
+Obstacle o2;
+
 float x, y;
 float speed = 4;
 boolean wPressed, aPressed, sPressed, dPressed;
@@ -9,13 +12,16 @@ void setup() {
   size(800, 800, P3D);
   p1 = new player();
   p2 = new player();
+  o1 = new Obstacle(200, 200);
+  o2 = new Obstacle(150, 150);
   x = width/2;
   y = height/2;
 }
 
 void draw() {
   background(220);
-
+  o1.display;
+  o2.display;
 
   //if (wPressed) y -= speed;
   //if (sPressed) y += speed;

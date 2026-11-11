@@ -1,6 +1,8 @@
 //Dennis Tokhtuev
 
 Player p1;
+Obstacle o1;
+Obstacle o2;
 
 float x, y;
 float speed = 4;

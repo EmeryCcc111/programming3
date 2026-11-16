@@ -10,8 +10,8 @@ float speed = 4;
 boolean wPressed, aPressed, sPressed, dPressed;
 void setup() {
   size(800, 800, P3D);
-  p1 = new player();
-  p2 = new player();
+  p1 = new Player();
+  p2 = new Player();
   o1 = new Obstacle(200, 200);
   o2 = new Obstacle(150, 150);
   x = width/2;

@@ -19,7 +19,7 @@ void setup() {
 }
 
 void draw() {
-  background(220);
+  background(#A3B18A);
   o1.display();
   o2.display();
 

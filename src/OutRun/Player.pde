@@ -23,7 +23,7 @@ class Player {
     fill(c1);
     rect(x, y, w, h);
   }
-  void move(char dir) {
+   void move(char dir) {
     if (dir == 'w') {
       y = y-30;
     }else if (dir == 's') {
@@ -32,6 +32,15 @@ class Player {
       x = x-30;
     }else if (dir == 'd') {
       x = x+30;
+    } else if (dir == 'i') {
+      y = y-30;
+    }else if (dir == 'k') {
+      y = y+30;
+    } else if (dir == 'j') {
+      x = x-30;
+    }else if (dir == 'l') {
+      x = x+30;
     }
   }
-}
+    }
+  

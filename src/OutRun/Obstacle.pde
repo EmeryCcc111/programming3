@@ -12,7 +12,7 @@ class Obstacle {
     this.y = y;
     w = 50;
     h = 50;
-    c1 = color(#41EAF7);
+    c1 = color(#967D67);
     p1 = loadImage("Brick.png");
   }
 

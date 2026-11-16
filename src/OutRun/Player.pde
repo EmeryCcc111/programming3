@@ -42,5 +42,5 @@ class Player {
       x = x+30;
     }
   }
-    }
+}
   
